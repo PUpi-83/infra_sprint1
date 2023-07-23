@@ -1,0 +1,9 @@
+IP: 158.160.72.96;
+
+name_taski: https://greatetask.hopto.org/;
+
+name_kittygram: https://purrterritory.sytes.net/;
+
+login: admini3;
+
+password: PiMpIm21;
