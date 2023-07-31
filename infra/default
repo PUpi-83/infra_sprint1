@@ -42,16 +42,6 @@ server {
 
 
 
-
-
-
-
-
-
-
-
-
-
 server {
     server_name 158.160.72.96 purrterritory.sytes.net;
     server_tokens off;
